@@ -1,0 +1,4 @@
+to run app 
+1. go to terminal/command line 
+2. navagate to the projects directory 
+3. type "python main.py"
